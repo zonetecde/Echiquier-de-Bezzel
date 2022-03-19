@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Echiquier_de_Bezzel.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Couleur_Damier_A" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">AntiqueWhite</Value>
+    </Setting>
+    <Setting Name="Couleur_Damier_B" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">DarkKhaki</Value>
+    </Setting>
+    <Setting Name="Couleur_toucherParUneReine" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">LightBlue</Value>
+    </Setting>
+    <Setting Name="Couleur_TrajectoireReine_Tout_Afficher" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">64, 64, 64</Value>
+    </Setting>
+    <Setting Name="Couleur_TrajectoireReine" Type="System.Drawing.Color" Scope="User">
+      <Value Profile="(Default)">White</Value>
+    </Setting>
+    <Setting Name="TrajectoireReineCouleurDifférente" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

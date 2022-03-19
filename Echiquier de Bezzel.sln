@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Echiquier de Bezzel", "Echiquier de Bezzel\Echiquier de Bezzel.csproj", "{FFC7337D-4751-4123-BDF2-6CBA25D933B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Échiquier de Bezzel", "Échiquier de Bezzel\Échiquier de Bezzel.vdproj", "{2F982F84-7E0B-4675-8192-01365177B321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFC7337D-4751-4123-BDF2-6CBA25D933B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFC7337D-4751-4123-BDF2-6CBA25D933B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFC7337D-4751-4123-BDF2-6CBA25D933B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFC7337D-4751-4123-BDF2-6CBA25D933B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F982F84-7E0B-4675-8192-01365177B321}.Debug|Any CPU.ActiveCfg = Debug
+		{2F982F84-7E0B-4675-8192-01365177B321}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A2F7781-66C8-4A48-B89D-7AE5715FFFA7}
+	EndGlobalSection
+EndGlobal
